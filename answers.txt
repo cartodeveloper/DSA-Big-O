@@ -1,0 +1,6 @@
+Big O complexity by analyzing the code without running it.
+
+1. A. O(1) - CONSTANT time, because the GR returns immediately. 
+   B. O(n) - LINEAR, because runtime depends on amount of people to ask (input).
+
+2.
