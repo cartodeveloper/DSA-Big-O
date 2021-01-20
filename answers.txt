@@ -1,6 +1,38 @@
-Big O complexity by analyzing the code without running it.
+Big O complexity drills by analyzing the code without running it.
 
 1. A. O(1) - CONSTANT time, because the GR returns immediately. 
    B. O(n) - LINEAR, because runtime depends on amount of people to ask (input).
 
-2.
+2. O(1) - CONSTANT, same ampunt of ops regardless amount of input.
+
+3. O(n^2) - EXPONENTIAL, nested loop runtime grows rapidily while input size increase.
+
+4. O(n) — loop
+
+5. O(n) — loop
+
+6. O(n) - Linear Complexity
+
+- Function runs through the entire array sequentially and pairs the selected value with the values preceding it. 
+i.e. it is fundamentaly different to nested loop that would have O(n^2) complexity. 
+
+7. This algorithm is creating an array of odd numbers in sequential order
+
+Time Complexity = O(n) - Linear Complexity
+
+- Function is running through the entire array sequentially. As the input size increases so will time increase linearly.  
+
+8. O(log n)
+
+Increase in input size has very little effect on the time complexity as the input size is halved on each itteration.
+
+9. O(1)
+
+- Algorithm only have on step, it outputs a single value in one step, irrespctive of the input size.
+
+10. Algorithm checks if the input is not an interger (whole number) that is > 2
+
+Time Complexity: O(n) - Time complexity will increase linearly as the input gets larger. 
+
+
+
